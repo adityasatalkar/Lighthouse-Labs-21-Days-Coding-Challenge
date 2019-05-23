@@ -1,6 +1,10 @@
-<img src="https://lighthouselabs.ca/assets/lighthouselabs-logo-d5df6d383f7466b06a64de9561fd537493502eafe78bbf3bcd3de82884e5dd85.png" alt="Lighthouse Labs Logo" width="681" height="142">
+<img src="assets/lighthouselabs-logo.png" alt="Lighthouse Labs Logo" width="681" height="142">
 
 Welcome to the Lighthouse Labs 21-Day Coding Challenge! Over a period of 21 days, Lighthouse Labs hosted a coding challenge where they posted a challenge each day. These are all related to a theme where you are on a spaceship somewhere in space. And at the end of these challenges you reach back safely to planet Earth! These were all to be solved in JavaScript. Here are the challenges and my solution to these in the ```coding-challenge.js``` file.
+
+
+You can check the coding challenge [here!](https://coding-challenge.lighthouselabs.ca/)
+
 
 There are a few objects you're going to be working with and their initial values. This is only a subset of them, to give you a idea of what they look like. You can see below that they're all messed up:
 
@@ -263,5 +267,4 @@ Call your returnToEarth() and head for home. "QUACK" shouts LARRY one final time
 
 Congratulations on completing the 21-Day Coding Challenge! 
 
-
-![coding challenge 21 complete](https://coding-challenge.lighthouselabs.ca/img/badges/badge21@72x.png)
+<img src="assets/coding-challenge-21-complete.png" alt="coding challenge 21 complete">
